@@ -1,6 +1,7 @@
 Demo
 ==================
 mvn clean install
+
 java -jar target/GoEuroTest.jar "berlin"
 
 Java Developer Test
